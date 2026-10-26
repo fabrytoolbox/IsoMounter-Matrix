@@ -1,0 +1,21 @@
+# Dati utente
+mounted_isos.json
+*.json
+
+# Log
+*.log
+isomounter_*.log
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
