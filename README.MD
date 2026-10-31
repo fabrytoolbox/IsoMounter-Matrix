@@ -1,6 +1,6 @@
 # 💿 IsoMounter Matrix
 
-![GUI Matrix](senza titolo.png)
+![GUI Matrix](IsoMounter.png)
 
 Monta e smonta immagini ISO su Windows con una GUI in stile Matrix, log e persistenza dello stato.
 
